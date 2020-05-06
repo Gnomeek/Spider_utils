@@ -11,7 +11,7 @@
 - jieba
 - WordCloud
 - anaconda全家桶(含jupyter notebook 及 pandas 等常用库)
-- 可能还需要安装项目树里的 PingFang.ttc 字体
+- 可能还需要安装 PingFang.ttc 字体
 
 ### TODO
 
